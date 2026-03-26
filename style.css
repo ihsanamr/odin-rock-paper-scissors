@@ -59,6 +59,7 @@ body {
 #computer-score-display {
     font-size: 6rem;
     font-weight: 700;
+
 }
 
 #computer-score-display {
@@ -83,6 +84,12 @@ body {
     padding: 2rem 4rem;
 
     color: #fff;
+    transition: all 0.5s ease;
+}
+
+.player-score:hover,
+.computer-score:hover {
+    box-shadow: 0 0 32px rgba(255, 255, 255, 0.2);
 }
 
 .versus-text {
@@ -128,6 +135,11 @@ body {
     overflow: hidden;
     background: #121212;
     cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.buttons button:hover {
+    transform: scale(1.1);
 }
 
 .choice-icon {
