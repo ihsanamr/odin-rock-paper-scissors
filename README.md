@@ -36,7 +36,7 @@ rock-paper-scissors/
 ├── images/
 │   ├── rock.png
 │   ├── paper.png
-│   └── scissors.js
+│   └── scissors.png
 ├── index.html
 ├── style.css
 └── script.js
