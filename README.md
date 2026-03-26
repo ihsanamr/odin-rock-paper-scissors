@@ -34,9 +34,9 @@ This project strengthened my comprehension of:
 rock-paper-scissors/
 │
 ├── images/
-│   ├── rock.png
-│   ├── paper.png
-│   └── scissors.js
+│   ├── rock.webp
+│   ├── paper.webp
+│   └── scissors.webp
 ├── index.html
 ├── style.css
 └── script.js
